@@ -1,0 +1,33 @@
+section {
+	padding: 2em;
+	max-width: 800px;
+	margin: auto;
+	background-color: #fafafa;
+	border-radius: 10px;
+	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+div {
+	margin-bottom: 2em;
+}
+
+h2 {
+	color: #333;
+	margin-bottom: 0.5em;
+}
+
+p {
+	margin-bottom: 0.5em;
+	font-size: 1em;
+	line-height: 1.5;
+}
+
+a {
+	color: #4caf50;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+}
